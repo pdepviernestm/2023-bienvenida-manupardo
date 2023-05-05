@@ -3,7 +3,7 @@
 
 Mi legajo es 168796-7. 
 
-![Error al cargar imagen](C:\Users\Manu\Pictures\Camera Roll\foto1.jpg)
+![Error al cargar imagen](C:\Users\Manu\Pictures\Camera Roll\foto1.jpg "Foto1")
 
 Aca va una breve listita sobre mi:
 - Soy fan de muchas cosas pero por sobretodo la música y el futbol
@@ -12,4 +12,4 @@ Aca va una breve listita sobre mi:
 - Soy bastante socially awkward pero se intenta
 - Soy bastante fan de berserk tambien
 
-![Error al cargar imagen](C:\Users\Manu\Pictures\Camera Roll\foto2.jpg)
+![Error al cargar imagen](C:\Users\Manu\Pictures\Camera Roll\foto2.jpg "Foto2")
