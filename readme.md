@@ -3,7 +3,7 @@
 
 Mi legajo es 168796-7. 
 
-![Error al cargar imagen](https://imgur.com/QJEXNgB)
+![Error al cargar imagen](https://i.imgur.com/QJEXNgB.jpg)
 
 Aca va una breve listita sobre mi:
 - Soy fan de muchas cosas pero por sobretodo la música y el futbol
