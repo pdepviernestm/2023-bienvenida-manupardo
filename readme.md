@@ -12,4 +12,4 @@ Aca va una breve listita sobre mi:
 - Soy bastante socially awkward pero se intenta
 - Soy bastante fan de berserk tambien
 
-![Error al cargar imagen](https://imgur.com/sM3Ncgp)
+![Error al cargar imagen](https://i.imgur.com/sM3Ncgp.jpg)
